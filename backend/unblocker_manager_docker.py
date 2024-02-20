@@ -13,7 +13,7 @@ from requests import post
 urllib3.disable_warnings()
 
 prefix = "apple-auto_"
-image_name = "sahuidhsu/appleid_auto:2.0"
+image_name = "rui248655/appleid_auto:2.0"
 parser = argparse.ArgumentParser(description="")
 parser.add_argument("-api_url", help="API URL", required=True)
 parser.add_argument("-api_key", help="API key", required=True)
