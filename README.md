@@ -37,7 +37,7 @@
 
 # 基本简介
 后端一键脚本：
-```json
+```
 wget https://raw.githubusercontent.com/248655/appleid_auto/backend/backend/install_unblocker.sh
 ```
 # 项目特点
