@@ -40,7 +40,7 @@
 ```
 wget https://raw.githubusercontent.com/248655/appleid_auto/backend/backend/install_unblocker.sh
 ```
-只是重新上传了旧版本的镜像文件，长期使用请购买Pro版。
+只是重新上传了旧版本的镜像文件，长期使用请[购买Pro版](https://appleauto.pro/)。
 # 项目特点
 
 - 多用户使用，权限控制
