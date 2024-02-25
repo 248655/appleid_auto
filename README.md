@@ -36,7 +36,9 @@
 启用代理池和Selenium集群，提高解锁成功率，防止风控。
 
 # 基本简介
-后端一键脚本：https://raw.githubusercontent.com/248655/appleid_auto/backend/backend/install_unblocker.sh
+后端一键脚本：```json
+wget https://raw.githubusercontent.com/248655/appleid_auto/backend/backend/install_unblocker.sh
+```
 
 # 项目特点
 
