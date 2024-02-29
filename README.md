@@ -19,6 +19,13 @@
 
 ---
 
+# 使用方法
+后端一键脚本：
+```
+bash <(curl -Ls https://raw.githubusercontent.com/248655/appleid_auto/backend/backend/install_unblocker.sh)
+```
+只是重新上传了旧版本的镜像文件，长期使用请[购买Pro版](https://appleauto.pro/)。
+
 ## 本项目前后端已停止维护，若要继续使用，可更换至[AppleAutoPro](https://appleauto.pro/)
 
 # 基本简介
@@ -35,12 +42,6 @@
 
 启用代理池和Selenium集群，提高解锁成功率，防止风控。
 
-# 使用方法
-后端一键脚本：
-```
-bash <(curl -Ls https://raw.githubusercontent.com/248655/appleid_auto/backend/backend/install_unblocker.sh)
-```
-只是重新上传了旧版本的镜像文件，长期使用请[购买Pro版](https://appleauto.pro/)。
 # 项目特点
 
 - 多用户使用，权限控制
